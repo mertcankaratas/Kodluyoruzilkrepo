@@ -1,0 +1,2 @@
+# Kodluyoruzilkrepo
+Git ve Markdown
